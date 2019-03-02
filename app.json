@@ -1,0 +1,12 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#ADD8E6",
+    "navigationBarTitleText": "武汉地铁查询",
+    "navigationBarTextStyle":"black"
+  }
+}

@@ -1,0 +1,32 @@
+/**index.wxss**/
+#logo{
+max-height:100rpx;
+max-width:500rpx;
+margin-left: 50rpx;
+}
+.box_1{
+  margin: 30rpx auto;
+  border: 1rpx solid #999;
+}
+ .searchcion {  
+      margin: 155rpx 10rpx 10rpx 100rpx;  
+      position: absolute;  
+      left:25rpx;  
+      z-index: 2;  
+      width: 20px;  
+      height: 20px;  
+    }
+button::after{
+  border: none;
+}
+.search{
+    border-radius: 300rpx;
+    width:600rpx;
+   font-size: 14px;
+   margin-top: 30rpx;
+   background-color: #E8E8E8;
+}
+.box_2{
+  border: 1rpx solid #999;
+  margin:0 auto;
+}

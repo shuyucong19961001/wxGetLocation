@@ -1,0 +1,12 @@
+<!--index.wxml-->
+<view class="container">
+  <view class='box_1'>
+    <image src='/images/logo.jpg' id='logo'> </image>
+          <icon class="searchcion" size='20' type='search'></icon> 
+          <button class='search'>点击搜索相关</button>
+  </view>
+    <view class='box_2'>
+      
+       <text>地铁/BRT时刻表</text>
+    </view>
+</view>
